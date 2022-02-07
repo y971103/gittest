@@ -45,6 +45,6 @@
 		<li><a href="cookie3">쿠키 읽기</a></li>
 	</ol>
 </ul>
-	
+	<h1>변경 완료</h1>
 </body>
 </html>
